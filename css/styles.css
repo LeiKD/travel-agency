@@ -1,7 +1,16 @@
 body{
   font-family: fantasy;
-  color: #f7325e;
-}
+  color: #0c0b0b;
+  background:radial-gradient(pink ,purple,orange) }
 p{
-  color: #7dc410;
+  color: black;
+  font-style: inherit;
+  
 }
+a {
+  color: lightcyan;
+}
+h1{
+  font-style: italic;
+}
+
