@@ -1,9 +1,7 @@
-h.tropical{
-  color: #f7325e;
-}
 body{
   font-family: fantasy;
+  color: #f7325e;
 }
-h1{
-  color: hsl(0, 0%, 0%);
+p{
+  color: #7dc410;
 }
